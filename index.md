@@ -8,7 +8,6 @@ layout: home
 <img src="/assets/will.jpeg" style="border-radius:10px" alt="Will" />
 
 # Will Blackburn
-CTO, [NXTsoft](https://www.nxtsoft.com)\
 Core, [Developer DAO](https://developerdao.com)\
 twitter: [@willhblackburn - email in bio](https://twitter.com/willhblackburn)\
 <!--\
