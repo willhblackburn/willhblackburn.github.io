@@ -5,9 +5,9 @@ title: "Priority Management"
 <img src="/assets/checklists.png" alt="Checklists" style="border-radius:10px;" />
 
 
-**Priority Management is simply the act of managing, setting, and working towards your priorities.**
+**Priority Management is the act of managing, setting, and working towards your priorities.**
 
-It is entirely different than Time Management. Time Management lets you schedule items in your day. Priority Management makes sure the items you schedule are **what** you should be working on to begin with. Separate these in your mind and workflows.
+It is different than Time Management. Time Management is scheduling items in your day. Priority Management makes sure the items you schedule are **what** you should be working on to begin with. Separate these in your mind and workflows.
 
 Here are my top takeaways.
 
@@ -29,7 +29,7 @@ No one gives out awards to the person who does the most, and more importantly bu
 
 **Overwhelmed** = you try hard to make sure you work on important things, but you can never *catch up*. You are acting reactively, usually solving today's problems today.
 
-**Prioritized Full Capacity** = though you never run out of things to do, you start each day knowing the most important thing to tackle right now. You are working proactively to solve tomorrow's problems, and you make sure you have time to think.
+**Prioritized Full Capacity** = though you never run out of things to do, you start each day knowing the most important thing to tackle. You are working proactively to solve tomorrow's problems, and you make sure you have time to think.
 
 Work towards getting in the third group.
 
