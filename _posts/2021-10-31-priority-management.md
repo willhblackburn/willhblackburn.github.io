@@ -2,6 +2,9 @@
 title: "Priority Management"
 ---
 
+<img src="/assets/checklists.png" alt="Checklists" style="border-radius:10px;" />
+
+
 **Priority Management is simply the act of managing, setting, and working towards your priorities.**
 
 It is entirely different than Time Management. Time Management lets you schedule items in your day. Priority Management makes sure the items you schedule are **what** you should be working on to begin with. Separate these in your mind and workflows.
