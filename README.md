@@ -16,4 +16,4 @@ Run `bundle exec jekyll serve` to build and serve locally.
 
 ## Deployment
 
-Run `jekyll build` to perform a build of your site. Push to the `main` branch in GitHub to have it served via `github-pages`.
+Run `bundle exec jekyll build` to perform a build of your site. Push to the `main` branch in GitHub to have it served via `github-pages`.
