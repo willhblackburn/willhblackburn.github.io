@@ -6,9 +6,13 @@ It uses the `Jekyll` framework for static site generation of markdown and HTML p
 
 It is published via `github-pages`.
 
+## Updates
+
+To keep up-to-date, run `bundle update github-pages`.
+
 ## Local Development
 
-Run `jekyll serve` to build and serve locally.
+Run `bundle exec jekyll serve` to build and serve locally.
 
 ## Deployment
 
