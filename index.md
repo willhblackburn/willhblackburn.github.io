@@ -8,7 +8,9 @@ layout: home
 <img src="/assets/will.jpeg" style="border-radius:10px" alt="Will" />
 
 # Will Blackburn
-Core, [Developer DAO](https://developerdao.com)\
+
+co-founder, [DevClarity](https://devclarity.ai)\
+co-founder, [Birmingham AI](https://birminghamai.org)\
 twitter: [@willhblackburn - email in bio](https://twitter.com/willhblackburn)\
 <!--\
 what i'm doing in web3/crypto: [/web3](/web3)\
