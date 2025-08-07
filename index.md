@@ -12,6 +12,7 @@ layout: home
 co-founder, [DevClarity](https://devclarity.ai)\
 co-founder, [Birmingham AI](https://birminghamai.org)\
 twitter: [@willhblackburn - email in bio](https://twitter.com/willhblackburn)\
+books: [/books](/books)\
 <!--\
 what i'm doing in web3/crypto: [/web3](/web3)\
 lesser musings: [/more](/more)-->
