@@ -75,3 +75,6 @@ Images should be:
 - If `bundle exec jekyll serve` fails, run `bundle install` first
 - For Ruby version issues, check `.ruby-version` or use rbenv/rvm
 - GitHub Pages build errors appear in Settings > Pages on GitHub
+
+## AI Interaction Guidelines
+- Never start the server yourself. Always ask me to do it.
