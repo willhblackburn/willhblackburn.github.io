@@ -1,0 +1,171 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+:root {
+  --background-color: #ffffff;
+  --text-color: #111111;
+  --link-color: #2a7ae4;
+  --link-visited-color: #1756a9;
+  --link-hover-color: #111111;
+  --code-background: #f0f0f0;
+  --code-text: #111111;
+  --border-color: #e8e8e8;
+  --grey-color: #828282;
+  --grey-color-light: #e8e8e8;
+  --grey-color-dark: #424242;
+  --site-title-color: #424242;
+  --post-title-color: #424242;
+  --blockquote-color: #828282;
+  --blockquote-border: #e8e8e8;
+  --table-border: #e8e8e8;
+  --table-header-bg: #f0f0f0;
+  --table-header-border: #dedede;
+  --transition-speed: 0.3s;
+}
+
+[data-theme="dark"] {
+  --background-color: #1a1a1a;
+  --text-color: #e8e8e8;
+  --link-color: #6db3f2;
+  --link-visited-color: #9bafd9;
+  --link-hover-color: #ffffff;
+  --code-background: #2d2d2d;
+  --code-text: #e8e8e8;
+  --border-color: #404040;
+  --grey-color: #b0b0b0;
+  --grey-color-light: #404040;
+  --grey-color-dark: #d0d0d0;
+  --site-title-color: #e8e8e8;
+  --post-title-color: #e8e8e8;
+  --blockquote-color: #b0b0b0;
+  --blockquote-border: #404040;
+  --table-border: #404040;
+  --table-header-bg: #2d2d2d;
+  --table-header-border: #404040;
+}
+
+// Apply CSS variables to elements
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+}
+
+a {
+  color: var(--link-color);
+  
+  &:visited {
+    color: var(--link-visited-color);
+  }
+  
+  &:hover {
+    color: var(--link-hover-color);
+  }
+}
+
+.site-title {
+  color: var(--site-title-color) !important;
+  
+  &:visited {
+    color: var(--site-title-color) !important;
+  }
+}
+
+.post-title {
+  color: var(--post-title-color);
+}
+
+.post-meta {
+  color: var(--grey-color);
+}
+
+code, pre {
+  background-color: var(--code-background);
+  color: var(--code-text);
+  border-color: var(--border-color);
+}
+
+blockquote {
+  color: var(--blockquote-color);
+  border-left-color: var(--blockquote-border);
+}
+
+table {
+  border-color: var(--table-border);
+  
+  th {
+    background-color: var(--table-header-bg);
+    border-color: var(--table-header-border);
+  }
+  
+  td {
+    border-color: var(--table-border);
+  }
+}
+
+.site-header {
+  border-top-color: var(--border-color);
+  border-bottom-color: var(--border-color);
+}
+
+.footer-col-wrapper {
+  color: var(--grey-color);
+}
+
+// Theme toggle button styles
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: var(--code-background);
+  border: 2px solid var(--border-color);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all var(--transition-speed) ease;
+  z-index: 1000;
+  
+  &:hover {
+    transform: scale(1.1);
+    border-color: var(--link-color);
+  }
+  
+  svg {
+    width: 24px;
+    height: 24px;
+    fill: var(--text-color);
+    transition: fill var(--transition-speed) ease;
+  }
+  
+  .sun-icon {
+    display: none;
+  }
+  
+  .moon-icon {
+    display: block;
+  }
+}
+
+[data-theme="dark"] .theme-toggle {
+  .sun-icon {
+    display: block;
+  }
+  
+  .moon-icon {
+    display: none;
+  }
+}
+
+// Smooth transitions for all themed elements
+* {
+  transition: background-color var(--transition-speed) ease, 
+              color var(--transition-speed) ease,
+              border-color var(--transition-speed) ease;
+}
