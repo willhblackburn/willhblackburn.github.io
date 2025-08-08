@@ -8,34 +8,96 @@ Date Updated: Aug 8, 2025\
 [back home](/)
 
 \
-Short insights on building products, AI, and entrepreneurship.
+Short insights on building products, AI, and engineering.
 
 ---
 
-**Aug 8, 2025** — *Why Boring AI Products Win*
+**July 7, 2025** — *Learning to Delegate to AI*
 
-Everyone's chasing the next ChatGPT wrapper or AI-powered everything. Meanwhile, the real opportunity is in boring, practical applications that solve specific business problems. At DevClarity, we're building AI for the unglamorous task of improving developer productivity metrics. It's not sexy, but it's valuable. The best AI products aren't the ones that demo well—they're the ones that quietly save companies hours every week. Focus on being useful, not impressive.
+Developers *who have never delegated before in their life* when they ask AI to do something for them and it goes poorly.
 
----
+It's why Anthropic's "golden rule of clear prompting" is to "show your prompt to a colleague, ideally someone who has minimal context on the task, and ask them to follow the instructions. If they're confused, Claude (Cursor, Windsurf, etc.) will likely be too."
 
-**Aug 7, 2025** — *The Power of Local Tech Communities*
+Do this a few times. You'll get better. Your code will be better.
 
-Silicon Valley gets all the attention, but local tech communities are where real connections happen. Birmingham AI started as five people meeting for coffee. Now it's hundreds of developers, founders, and researchers pushing each other forward. The magic isn't in the size—it's in the consistency. Show up every month, help others without expecting returns, and watch what compounds. Your next co-founder is probably within 50 miles of you right now.
+I always ask myself: "What's the delta between the code I would have written and the AI output?" Then, "Why does the difference exist?"
 
----
-
-**Aug 6, 2025** — *What Books Don't Tell You About Startups*
-
-I've read every startup book worth reading. They're useful for frameworks and mental models, but they miss the visceral reality: the 3am debugging sessions, the customer who ghosts after promising to sign, the co-founder tensions over seemingly trivial decisions. Books teach you strategy; only building teaches you execution. Read for perspective, but don't mistake knowledge for experience. The real education costs you sleep, not money.
+It's usually not the model, but the context I have that the AI doesn't. Close the gap.
 
 ---
 
-**Aug 5, 2025** — *The 80/20 of Product Development*
+**June 22, 2025** — *How to Hire Your First AI Engineer*
 
-After building multiple products, the pattern is clear: 80% of value comes from 20% of features. But here's what they don't tell you—you can't identify that 20% without building the other 80% first. The waste isn't waste; it's exploration. Ship fast, learn what users actually do (not what they say), then ruthlessly cut. Your MVP isn't minimal enough. Whatever you're building right now, cut it in half.
+A CTO of a billion-dollar software company is looking to hire their first AI engineer. He asked me what to look for. Here's what I said. What did I miss?
+
+First, decide if you want to find someone with an ML or full-stack background.
+
+I would choose ML if you are going deep, but if you want to move faster and test with customers, full-stack is preferred.
+
+Second, screen candidates in four main areas:
+
+1. Have they shipped AI/LLM apps to production?
+2. How do they think about and handle evals?
+3. When would they suggest fine-tuning and how would they go about it?
+4. What is their experience with AI infrastructure?
+
+I think those four areas quickly filter out the developers who have just slapped "AI" in front of their title without having the experience to back it up.
 
 ---
 
-**Aug 4, 2025** — *Founder Psychology is Everything*
+**June 14, 2025** — *Stop Copy-Pasting from ChatGPT*
 
-Your startup's biggest risk isn't competition, technology, or market timing. It's your own psychology. Can you handle rejection daily? Can you stay motivated without external validation? Can you make decisions with incomplete information? The technical challenges are solvable. The emotional ones break most founders. Before raising money or hiring, invest in your mental resilience. Everything else is downstream from that.
+I cannot think of a single good reason to still be copying and pasting code back and forth from ChatGPT or Claude.
+
+Okay, there's one good reason. Your company won't let you use an AI coding tool.
+
+But if that's the case, you're better off using ChatGPT to update your resume.
+
+Alternatives to copy & paste?
+- windsurf
+- cursor
+- claude code
+- openai's codex cli
+- aider
+- github copilot even!
+
+---
+
+**May 24, 2025** — *The Hidden Power of Async AI Agents*
+
+I was completely wrong about async AI coding agents like OpenAI Codex.
+
+When I first got access to Codex, all I was thinking about was how it could do the big, complex things: refactoring, full feature build-outs, etc.
+
+But I was willing to start small -> paper cuts within the platform.
+
+I gave these to Codex, and it performed great. As I reviewed the pull requests it submitted, I asked myself, "Why hadn't I addressed these earlier?" Many of these fixes were tasks that took under 10 minutes.
+
+That's when it really hit me.
+
+How often are you sitting in your codebase, ready to switch to a new task: creating a new branch, finding files, making changes, testing, pushing commits, and returning to your previous work? Almost never. That's why it's possible to spend 30 seconds creating a ticket but not do the task, regardless of how "quick" it is.
+
+That's where Codex has changed the game for me. It has zero context-switching costs. It IS just sitting there in your code, waiting for a task. And you can fire off 10+ of them at once.
+
+It can address the small fixes while you stay in flow.
+
+For now, I'll stay focused on the big challenges and let Codex handle the small things. The important, but not urgent, issues.
+
+---
+
+**April 12, 2025** — *Developers Need Two Hats Now*
+
+"I need to take my developer hat off and put on my product hat." NO!
+
+I had this conversation with a developer the other day, and it made me finally realize something.
+
+It's not about switching hats at this point.
+
+If you're a developer, you need to put a product hat on and never take it off. You now have two hats, and that's how it's going to be for the rest of your life.
+
+It's time to think more critically about product:
+ – why what you're building matters
+ – how it's going to be used
+ – how intuitive it is
+
+This is the kind of judgment you're developing that can become incredibly important in the future.
