@@ -14,6 +14,7 @@ co-founder, [DevClarity](https://devclarity.ai)\
 co-founder, [Birmingham AI](https://birminghamai.org)\
 👤 linkedin: [willhblackburn](https://www.linkedin.com/in/willhblackburn/)\
 📚 book list: [books](/books)\
+💭 thoughts: [thoughts](/thoughts)\
 <!--\
 what i'm doing in web3/crypto: [/web3](/web3)\
 lesser musings: [/more](/more)-->
