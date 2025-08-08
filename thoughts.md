@@ -12,7 +12,8 @@ Short insights on building products, AI, and engineering.
 
 ---
 
-**July 7, 2025 — Learning to Delegate to AI**
+### Learning to Delegate to AI
+July 7, 2025
 
 Developers *who have never delegated before in their life* when they ask AI to do something for them and it goes poorly.
 
@@ -28,7 +29,8 @@ It's usually not the model, but the context I have that the AI doesn't. Close th
 
 ---
 
-**June 22, 2025 — How to Hire Your First AI Engineer**
+### How to Hire Your First AI Engineer
+June 22, 2025
 
 A CTO of a billion-dollar software company is looking to hire their first AI engineer. He asked me what to look for. Here's what I said. What did I miss?
 
@@ -49,7 +51,8 @@ I think those four areas quickly filter out the developers who have just slapped
 
 ---
 
-**June 14, 2025 — Stop Copy-Pasting from ChatGPT**
+### Stop Copy-Pasting from ChatGPT
+June 14, 2025
 
 I cannot think of a single good reason to still be copying and pasting code back and forth from ChatGPT or Claude.
 
@@ -69,7 +72,8 @@ Alternatives to copy & paste?
 
 ---
 
-**May 24, 2025 — The Hidden Power of Async AI Agents**
+### The Hidden Power of Async AI Agents
+May 24, 2025
 
 I was completely wrong about async AI coding agents like OpenAI Codex.
 
@@ -93,7 +97,8 @@ For now, I'll stay focused on the big challenges and let Codex handle the small 
 
 ---
 
-**April 12, 2025 — Developers Need Two Hats Now**
+### Developers Need Two Hats Now
+April 12, 2025
 
 "I need to take my developer hat off and put on my product hat." NO!
 
