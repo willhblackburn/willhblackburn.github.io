@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Books
+title: Book List
 permalink: /books/
 ---
 
+Date Updated: Aug 7, 2025\
 [back home](/)
 
-Date Updated: 2025-08-08
-
-These are books I've rated five stars. Each has profoundly influenced my thinking in some way.
-
-<br>
+\
+These are my favorite books. Each has profoundly influenced my thinking in some way.
 
 ## Philosophy & Life
 
@@ -30,10 +28,9 @@ A journey of spiritual discovery that parallels Buddha's path while ultimately d
 Excellence through presence and deep practice. The chess prodigy and martial arts champion shares how to cultivate peak performance by embracing failure, finding stillness in chaos, and developing intuitive understanding through deliberate practice.
 
 **[The Lion Tracker's Guide To Life](https://www.goodreads.com/book/show/43261065-the-lion-tracker-s-guide-to-life){:target="_blank"} by Boyd Varty**  
-Ancient wisdom meets modern life through the lens of tracking lions in the South African wilderness. Varty weaves together stories of following dangerous game with profound insights about attention, presence, and finding your own track in life.
+Ancient wisdom meets modern life through the lens of tracking lions in the South African wilderness. Varty weaves together stories of following dangerous game with profound insights about attention, presence, and finding your own track in life
 
 <br>
-
 ## Business & Strategy
 
 **[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management){:target="_blank"} by Andrew S. Grove**  
@@ -52,7 +49,6 @@ Systems that gain from disorder. Taleb introduces the concept of antifragilityâ€
 Wealth and happiness distilled from the wisdom of AngelList founder Naval Ravikant. This collection captures Naval's insights on building wealth through leverage, finding happiness through understanding, and the power of specific knowledge.
 
 <br>
-
 ## Science Fiction
 
 **[Dune](https://www.goodreads.com/book/show/44767458-dune){:target="_blank"} by Frank Herbert**  
@@ -74,7 +70,6 @@ The universe is absurd, and that's okay. Adams' comedic masterpiece uses humor t
 Ideas that resist being known. A mind-bending exploration of antimemesâ€”concepts that prevent themselves from being remembered or spread. Part SCP Foundation, part philosophical thriller about the nature of knowledge itself.
 
 <br>
-
 ## History & Biography
 
 **[The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History){:target="_blank"} by Will Durant**  
