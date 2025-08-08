@@ -6,20 +6,23 @@ permalink: /thoughts/
 
 [back home](/)
 
+\
 Short insights on building products, AI, and engineering.
 
-## Quick Links
-- [Learning to Delegate to AI](#learning-to-delegate-to-ai)
-- [How to Hire Your First AI Engineer](#how-to-hire-your-first-ai-engineer)
-- [Stop Copy-Pasting from ChatGPT](#stop-copy-pasting-from-chatgpt)
-- [The Hidden Power of Async AI Agents](#the-hidden-power-of-async-ai-agents)
-- [Developers Need Two Hats Now](#developers-need-two-hats-now)
+\
+*Table of contents*\
+[Learning to Delegate to AI](#learning-to-delegate-to-ai)\
+[How to Hire Your First AI Engineer](#how-to-hire-your-first-ai-engineer)\
+[Stop Copy-Pasting from ChatGPT](#stop-copy-pasting-from-chatgpt)\
+[The Hidden Power of Async AI Agents](#the-hidden-power-of-async-ai-agents)\
+[Developers Need Two Hats Now](#developers-need-two-hats-now)
 
 <br>
 
 ---
 
 ### Learning to Delegate to AI {#learning-to-delegate-to-ai}
+
 July 7, 2025
 
 Developers *who have never delegated before in their life* when they ask AI to do something for them and it goes poorly.
@@ -37,6 +40,7 @@ It's usually not the model, but the context I have that the AI doesn't. Close th
 ---
 
 ### How to Hire Your First AI Engineer {#how-to-hire-your-first-ai-engineer}
+
 June 22, 2025
 
 A CTO of a billion-dollar software company is looking to hire their first AI engineer. He asked me what to look for. Here's what I said. What did I miss?
@@ -59,6 +63,7 @@ I think those four areas quickly filter out the developers who have just slapped
 ---
 
 ### Stop Copy-Pasting from ChatGPT {#stop-copy-pasting-from-chatgpt}
+
 June 14, 2025
 
 I cannot think of a single good reason to still be copying and pasting code back and forth from ChatGPT or Claude.
@@ -68,6 +73,7 @@ Okay, there's one good reason. Your company won't let you use an AI coding tool.
 But if that's the case, you're better off using ChatGPT to update your resume.
 
 Alternatives to copy & paste?
+
 - windsurf
 - cursor
 - claude code
@@ -80,6 +86,7 @@ Alternatives to copy & paste?
 ---
 
 ### The Hidden Power of Async AI Agents {#the-hidden-power-of-async-ai-agents}
+
 May 24, 2025
 
 I was completely wrong about async AI coding agents like OpenAI Codex.
@@ -105,6 +112,7 @@ For now, I'll stay focused on the big challenges and let Codex handle the small 
 ---
 
 ### Developers Need Two Hats Now {#developers-need-two-hats-now}
+
 April 12, 2025
 
 "I need to take my developer hat off and put on my product hat." NO!
