@@ -4,15 +4,15 @@ title: Thoughts
 permalink: /thoughts/
 ---
 
-Date Updated: Aug 8, 2025\
 [back home](/)
 
-\
 Short insights on building products, AI, and engineering.
+
+<br>
 
 ---
 
-**July 7, 2025** — *Learning to Delegate to AI*
+**July 7, 2025 — Learning to Delegate to AI**
 
 Developers *who have never delegated before in their life* when they ask AI to do something for them and it goes poorly.
 
@@ -24,9 +24,11 @@ I always ask myself: "What's the delta between the code I would have written and
 
 It's usually not the model, but the context I have that the AI doesn't. Close the gap.
 
+<br>
+
 ---
 
-**June 22, 2025** — *How to Hire Your First AI Engineer*
+**June 22, 2025 — How to Hire Your First AI Engineer**
 
 A CTO of a billion-dollar software company is looking to hire their first AI engineer. He asked me what to look for. Here's what I said. What did I miss?
 
@@ -43,9 +45,11 @@ Second, screen candidates in four main areas:
 
 I think those four areas quickly filter out the developers who have just slapped "AI" in front of their title without having the experience to back it up.
 
+<br>
+
 ---
 
-**June 14, 2025** — *Stop Copy-Pasting from ChatGPT*
+**June 14, 2025 — Stop Copy-Pasting from ChatGPT**
 
 I cannot think of a single good reason to still be copying and pasting code back and forth from ChatGPT or Claude.
 
@@ -61,9 +65,11 @@ Alternatives to copy & paste?
 - aider
 - github copilot even!
 
+<br>
+
 ---
 
-**May 24, 2025** — *The Hidden Power of Async AI Agents*
+**May 24, 2025 — The Hidden Power of Async AI Agents**
 
 I was completely wrong about async AI coding agents like OpenAI Codex.
 
@@ -83,9 +89,11 @@ It can address the small fixes while you stay in flow.
 
 For now, I'll stay focused on the big challenges and let Codex handle the small things. The important, but not urgent, issues.
 
+<br>
+
 ---
 
-**April 12, 2025** — *Developers Need Two Hats Now*
+**April 12, 2025 — Developers Need Two Hats Now**
 
 "I need to take my developer hat off and put on my product hat." NO!
 
