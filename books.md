@@ -4,6 +4,10 @@ title: Books
 permalink: /books/
 ---
 
+[back home](/)
+
+Date Updated: 2025-08-08
+
 These are books I've rated five stars. Each has profoundly influenced my thinking in some way.
 
 <br>
